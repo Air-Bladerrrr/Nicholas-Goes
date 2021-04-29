@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Flutter and Python; 
 - 👯 I’m looking to collaborate on [...] 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I Really love Flutter;
+- ⚡️ Fun-Fact: I love Flutter;
 - 📫 How to reach me: nicholasfernandesdegoes@gmail.com;
 
 **Languages and Tools:** 

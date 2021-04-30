@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [...]
+- 👨🏽‍💻 I’m currently working on [Web Aplication]
 - 🌱 I’m currently learning Flutter and Python; 
 - 👯 I’m looking to collaborate on [...] 🤝;
 - 💬 Ask me about anything, I am happy to help;

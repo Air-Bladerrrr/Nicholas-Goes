@@ -60,24 +60,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Nicholas-Goes.Nicholas-Goes" />
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Nicholas-Goes/Nicholas-Goes.svg" />
-</p>
-
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/NicholasfGoes" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
-
----
-
 <!-- Its main projects -->
 <!--<p align="center">
   <a href="https://github.com/onimur/handle-path-oz">

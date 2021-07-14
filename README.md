@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Laravel and React Native; 
 - 👯 I’m looking to collaborate on [...] 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I love Javascript;
+- ⚡️ Fun-Fact: I love Html, Css, Javascript;
 - 📫 How to reach me: nicholasfernandesdegoes@gmail.com;
 
 **Languages and Tools:** 

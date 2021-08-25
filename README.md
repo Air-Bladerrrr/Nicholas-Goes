@@ -16,11 +16,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Web Aplication]
-- 🌱 I’m currently learning Javascript and Bootstrap; 
-- 👯 I’m looking to collaborate on [...] 🤝;
+- 👨🏽‍💻 I’m currently working on [Web Site]
+- 🌱 I’m currently learning Laravel; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I love Html, Css, Javascript;
 - 📫 How to reach me: nicholasfernandesdegoes@gmail.com;
 
 **Languages and Tools:** 

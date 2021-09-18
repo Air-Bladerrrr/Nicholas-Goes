@@ -4,7 +4,6 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-&nbsp;
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**

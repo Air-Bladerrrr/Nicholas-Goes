@@ -12,15 +12,14 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [FanTabs]
-- 🌱 I’m currently learning React Native; 
+- 🌱 I’m currently learning Type-Script; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: nicholasfernandesdegoes@gmail.com;
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasGoes)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Nicholas-Goes's github stats" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&hide_border=true" />

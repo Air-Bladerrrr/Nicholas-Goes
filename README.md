@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Twitter](https://img.shields.io/twitter/follow/NicholasGoes?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/NicholasGoes?style=social)]
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nicholasfernandesdegoes@gmail.com)
 
 &nbsp;

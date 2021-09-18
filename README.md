@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 **Languages and Tools:** 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasGoes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   <a href="https://github.com/onimur/handle-path-oz">

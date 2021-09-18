@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 
-- 👨🏽‍💻 I’m currently working on [FanTabs]
+- 👨🏽‍💻 I’m currently working on [!FanTabs(https://github.com/FanTabs)]
 - 🌱 I’m currently learning Type-Script; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: nicholasfernandesdegoes@gmail.com;

@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Nicholas-Goes.visitor-badge)]
+[(https://visitor-badge.glitch.me/badge?page_id=Nicholas-Goes.visitor-badge)]
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**

@@ -11,4 +11,4 @@
   <strong><a href="https://www.linkedin.com/in/nicholas-goes-0aab63210">LinkedIn</a></strong> |
 </p>
 
-<p align="center">❤ I'm currently working on Web Projects, and Content Creation.</p>
+<p align="center">💚 I'm currently working on Web Projects, and Content Creation.</p>

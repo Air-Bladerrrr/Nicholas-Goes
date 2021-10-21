@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="#"><img src="banner.png" alt="edisonlee55 Banner"></a>
-</p>
-
 <h1 align="center">Hi, I'm <a href="#">Nicholas Goes</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 

@@ -10,7 +10,7 @@
 <p align="center">
   <strong><a href="#">Official Website</a></strong> |
   <strong><a href="https://twitter.com/NicholasGoes">Twitter</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/nicholas-goes-0aab63210">LinkedIn</a></strong> |
+  <strong><a href="www.linkedin.com/in/NicholasGoes">LinkedIn</a></strong> |
 </p>
 
 <p align="center">💚 I'm currently working on Web Projects, and Content Creation.</p>

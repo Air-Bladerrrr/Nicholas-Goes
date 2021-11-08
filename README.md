@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/Nicholas-Goes"><img src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&hide_border=true&show_icons=true&theme=vue" alt="Nicholas Goes's github stats"></a>
-  <a href="https://github.com/Nicholas-Goes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact" alt="Nicholas Goes's github top-langs"></a>
 
 </p>
 
